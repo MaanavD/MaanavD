@@ -8,7 +8,6 @@
 [![Spotify](https://novatorem-git-master.maanavd.vercel.app/api/spotify)](https://open.spotify.com/user/ultimated100)
 
 <h1 align="center">Hi 👋, I'm Maanav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maanavd" alt="maanavd" /> </p>
 
