@@ -6,4 +6,5 @@
 [![Spotify Badge](https://img.shields.io/badge/Maanav-1ED760?style=for-the-badge&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/ultimated100)](https://open.spotify.com/user/ultimated100)
 [![Gmail Badge](https://img.shields.io/badge/Email_me!-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:maanavdalal@gmail.com)](mailto:maanavdalal@gmail.com)
 
-[![Spotify](https://novatorem-git-master.maanavd.vercel.app/api/spotify)](https://open.spotify.com/user/ultimated100)
+<p align-"center>[![Spotify](https://novatorem-git-master.maanavd.vercel.app/api/spotify)](https://open.spotify.com/user/ultimated100)</p>
+
