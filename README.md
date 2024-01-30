@@ -1,4 +1,4 @@
-# Hi I'm Maanav, a coffee ☕ enthusiast and front-end dev 👨‍💻.</h1>
+# Hi I'm Maanav, a coffee ☕ enthusiast and front-end dev 👨‍💻.
 
 ### Say hi 👋 below - I love talking about consumer tech, design, rock climbing, anime, and video games.
 [![Website Badge](https://img.shields.io/badge/MaanavDalal.com-3d8ddf?style=for-the-badge&logo=Safari&logoColor=white&link=https://maanavdalal.com/)](https://maanavdalal.com/)
