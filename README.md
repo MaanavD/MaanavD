@@ -1,4 +1,4 @@
-# Hi I'm Maanav, a passionate Product Manager and hobbyist front-end dev 👨‍💻.
+# Hi I'm Maanav, a passionate Product Manager presently working at Microsoft and a hobbyist front-end dev 👨‍💻.
 
 ### Say hi 👋 below - I love talking about consumer tech, design, rock climbing, anime, and video games.
 [![Website Badge](https://img.shields.io/badge/MaanavDalal.com-3d8ddf?style=for-the-badge&logo=Safari&logoColor=white&link=https://maanavdalal.com/)](https://maanavdalal.com/)
